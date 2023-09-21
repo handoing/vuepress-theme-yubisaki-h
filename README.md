@@ -1,20 +1,18 @@
 <pre>
 <code style="color: #1890ff">
-                 _       _                 _      _
- _   _   _   _  | |__   (_)  ___    __ _  | | __ (_)
-| | | | | | | | | '_ \  | | / __|  / _` | | |/ / | |
-| |_| | | |_| | | |_) | | | \__ \ | (_| | |   <  | |
- \__, |  \__,_| |_.__/  |_| |___/  \__,_| |_|\_\ |_|
+                 _       _                 _      _          _     
+ _   _   _   _  | |__   (_)  ___    __ _  | | __ (_)        | |__
+| | | | | | | | | '_ \  | | / __|  / _` | | |/ / | |  ____  |  _ \
+| |_| | | |_| | | |_) | | | \__ \ | (_| | |   <  | | |____| | | | |
+ \__, |  \__,_| |_.__/  |_| |___/  \__,_| |_|\_\ |_|        |_| |_|
  |___/
 </code>
 </pre>
 
 <p align="center">
-  <!-- <a href="https://wuwaki.me/yubisaki/intro.html">
-    <img src="https://blog-1252181333.cos.ap-shanghai.myqcloud.com/blog/yubisaki.png" alt="Logo">
-  </a> -->
-  <h3 align="center">yubisaki theme</h3>
+  <h3 align="center">yubisaki theme fork</h3>
   <p align="center">A blog theme for vuepress</p>
+  <p align="center">原vuepress-theme-yubisaki已不再维护，所以fork一份修复一些bug</p>
 </p>
 
 <p align="center">
