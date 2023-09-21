@@ -34,18 +34,14 @@
 </p>
 
 
-## Documentation
-
-[简体中文](https://wuwaki.me/yubisaki/next.html) | [English](https://wuwaki.me/yubisaki/next-en.html)
-
 ## 📦 Installation
 
 ```bash
-yarn add vuepress-theme-yubisaki@next -S
+yarn add https://github.com/handoing/vuepress-theme-yubisaki-h -S
 ```
 or with npm
 ```bash
-npm install vuepress-theme-yubisaki@next --save-dev
+npm install https://github.com/handoing/vuepress-theme-yubisaki-h --save-dev
 ```
 
 ## ✨ Features
